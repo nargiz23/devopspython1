@@ -13,7 +13,11 @@ print("Techtorial" * 10)
 print("Tech"+"Tutorial") # only supported ooperand string is + opperand
 
 
-
+#+++++++++++++++++++++++++++++
+a=2
+b=3
+total=a+b
+print(total)
 
 
 
